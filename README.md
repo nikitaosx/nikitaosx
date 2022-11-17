@@ -2,6 +2,7 @@
 - 👀 I’m interested in C#, AppleScript and automation
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing
+- My favorite things are Sonic, Angry Birds and Winnie the Pooh.
 - 📫 How to reach me: just click this link: http://scratch.mit.edu/users/SonicIn2022
 
 <!---
