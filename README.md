@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - My favorite things are Sonic, Angry Birds and Winnie the Pooh.
 
-📫 How to reach me: just click this link: http://scratch.mit.edu/users/SonicStars2023
+📫 How to reach me: just click this link: http://scratch.mit.edu/users/1-4Sonic2024
 
 <!---
 nikitaosx/nikitaosx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
