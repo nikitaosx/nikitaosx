@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikitaosx
+<!--- 👋 Hi, I’m @nikitaosx
 - 👀 I’m interested in C#, AppleScript and automation
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing
